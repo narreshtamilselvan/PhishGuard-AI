@@ -1,5 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5220d484-f67e-4ea0-866c-bc9fa8ff76d9" /><div align="center">
-
 # 🔐 PhishGuard AI
 
 ### AI-Powered Phishing Detection System
