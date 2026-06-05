@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5220d484-f67e-4ea0-866c-bc9fa8ff76d9" /><div align="center">
 
 # 🔐 PhishGuard AI
 
@@ -385,6 +385,13 @@ phishing-detector/
 - **No External Data Leakage** — URLs are scanned server-side; nothing is sent to third parties
 
 ---
+## SCREENSHOTS 
+
+<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/7e098dfa-34c1-4cbe-8d68-a080b683fa1b" />
+<img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/6ec67989-16bf-4abe-94f1-ab8458191ce1" />
+<img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/86e6a866-5b4e-4123-aeeb-04f6d7a32e9e" />
+
+
 
 ## 🗺️ Roadmap
 
