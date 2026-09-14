@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🔐 PhishGuard AI
 
 ### AI-Powered Phishing Detection System
@@ -33,7 +35,7 @@
 | 🎯 **Threat Score (0–100)** | Intuitive scoring with confidence levels and a detailed risk-factor breakdown so you know *why* something is flagged |
 | 📋 **Scan History & Audit Trail** | Every scan is persisted in SQLite — filter, paginate, search, and export your entire scanning history |
 | 🔌 **REST API** | Clean JSON endpoints for URL scanning, email scanning, statistics, and history — integrate PhishGuard into any workflow |
-| 🎨 **Premium Dark UI** | Glassmorphic design with smooth CSS animations, responsive layout, and a hacker-aesthetic dark theme |
+| 🎨 **Enterprise SOC UI** | Dark Charcoal enterprise cybersecurity theme with refined blue-purple chart accents, compact SOC layout, and high contrast styling |
 
 ---
 
@@ -383,13 +385,6 @@ phishing-detector/
 - **No External Data Leakage** — URLs are scanned server-side; nothing is sent to third parties
 
 ---
-## SCREENSHOTS 
-
-<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/7e098dfa-34c1-4cbe-8d68-a080b683fa1b" />
-<img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/6ec67989-16bf-4abe-94f1-ab8458191ce1" />
-<img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/86e6a866-5b4e-4123-aeeb-04f6d7a32e9e" />
-
-
 
 ## 🗺️ Roadmap
 
